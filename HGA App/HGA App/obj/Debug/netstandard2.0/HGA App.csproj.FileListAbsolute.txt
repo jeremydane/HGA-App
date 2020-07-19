@@ -1,0 +1,14 @@
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\bin\Debug\netstandard2.0\HGA App.deps.json
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\bin\Debug\netstandard2.0\HGA App.dll
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\bin\Debug\netstandard2.0\ref\HGA App.dll
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\bin\Debug\netstandard2.0\HGA App.pdb
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\HGA App.csprojAssemblyReference.cache
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\HGA App.AssemblyInfoInputs.cache
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\HGA App.AssemblyInfo.cs
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\HGA App.csproj.CoreCompileInputs.cache
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\HGA App.dll
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\ref\HGA App.dll
+C:\Users\jeremy-dane\source\repos\HGA App\HGA App\HGA App\obj\Debug\netstandard2.0\HGA App.pdb
